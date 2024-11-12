@@ -15,7 +15,7 @@ a {
 	text-decoration: none; /*Para que los link no tengan delineado */
 }
 header {
-	background-color: #FFFF99; /*Atributo que permite cambiar el fondo del contenedor 
+	background-color: #000-000; /*Atributo que permite cambiar el fondo del contenedor 
 								seleccionado en este caso header*/
     padding: 10px 0; /*despues del contenido esta el relleno con esta configuracion hacemos 
     				que arriba y abajo del relleno haya un espacio de 10px y a la izquierda
@@ -183,7 +183,7 @@ background-color: black;
 #servicios .bloque-servicio{
 	border: 3px solid orange; /*cada contenido tiene un borde que esta invisible si 
 								lo configuramos como solido, este se mostrara*/
-	background-color: #F9E79F; /*Esta opcion te permite ponerle un color al fondo
+	background-color: #66FFFF; /*Esta opcion te permite ponerle un color al fondo
 								 de la pantalla del contenedor*/
 	width: 100%; /*Permite ajustar el ancho de la pantalla al 100%*/
 	height:100%;
